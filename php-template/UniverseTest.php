@@ -21,8 +21,8 @@
         } 
         else {
             echo("TECHIO> success false  \r\n");
-            echo("TECHIO> message --channel Oops! Try Again 🐞 \r\n");
-            echo("TECHIO> message --channel 'Hint 💡'  Did you properly accumulate all stars into 'totalStars'? 🤔 \r\n");
+            echo("TECHIO> message --channel Oops! Essayez encore 🐞 \r\n");
+            echo("TECHIO> message --channel 'Indice 💡'  Avez-vous correctement accumulé toutes les étoiles dans 'totalStars' ? 🤔 \r\n");
         }
     }
     test();
