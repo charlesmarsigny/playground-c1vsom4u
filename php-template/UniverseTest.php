@@ -16,7 +16,7 @@
             }
             else
             {
-                echo("TECHIO> message --channel 'Kudos 🌟' Good Job! Try using array_sum");
+                echo("TECHIO> message --channel 'Victoire 🌟' Bon travail ! Essayez d'utiliser array_sum");
             }
         } 
         else {
